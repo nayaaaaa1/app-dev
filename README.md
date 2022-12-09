@@ -2,3 +2,16 @@
 
 
 #THIS REPOSITORY IS FROM NINA MAE CANETE
+
+	# H1 FAVORITE MOVIE SERIES
+  
+1. 3 IDIOTS
+2. DYNASTY
+3. ELITE
+4. **AVATAR: AIR BENDER** 
+5. *BARBIE DIAMOND CASTLE*
+
+
+	[title]https://www.imdb.com/title/tt1187043/
+  
+  
